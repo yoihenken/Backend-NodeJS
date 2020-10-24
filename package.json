@@ -1,0 +1,30 @@
+{
+  "name": "id.bagus",
+  "version": "1.0.0",
+  "description": "Login, Register, Verification Email, and Middleware with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoihenken/Backend-NodeJS.git"
+  },
+  "author": "henken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoihenken/Backend-NodeJS/issues"
+  },
+  "homepage": "https://github.com/yoihenken/Backend-NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "brcypt": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.10",
+    "nodemailer": "^6.4.14",
+    "nodemon": "^2.0.6",
+    "regexpattern-collection": "^1.0.1"
+  }
+}
